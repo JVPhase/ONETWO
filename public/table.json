@@ -1,0 +1,12 @@
+{
+	users:[
+		{name: "Вася", surname: "Петров", age: 23},
+		{name: "Петя", surname: "Сидоров", age: 27},
+		{name: "Паша", surname: "Иванов", age: 17},
+		{name: "Гриша", surname: "Александров", age: 29},
+		{name: "Саша", surname: "Васильев", age: 35},
+		{name: "Илья", surname: "Антонов", age: 24},
+		{name: "Марк", surname: "Виноградов", age: 19},
+		{name: "Вадим", surname: "Кузнецов", age: 40}
+	]
+}
